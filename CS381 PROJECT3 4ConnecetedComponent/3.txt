@@ -1,0 +1,1 @@
+label: 1, numbpixels: 491, minRow: 8, minCol: 7, maxRow: 41, maxCol: 39
